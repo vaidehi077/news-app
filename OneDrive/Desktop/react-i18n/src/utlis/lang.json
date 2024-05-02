@@ -1,0 +1,23 @@
+{
+    "hi": {
+        "welcomeMessage" : " नमस्ते!",
+        "normalMessage" : " मी वैदेही|",
+        "greetingMessage" : " मी गोंदियाचा आहे, सध्या मी GHRCE नागपूर येथून संगणक विज्ञान आणि अभियांत्रिकीमध्ये माझी बॅचलर पदवी घेत आहे. मी अखंड वापरकर्ता अनुभव तयार करण्यास उत्सुक वेब विकासक आहे.!",
+        "usersStateMessage" :"धन्यवाद"
+    },
+
+    "en" : {
+        "welcomeMessage" : "Hello !",
+        "normalMessage" : "I'm Vaidehi.",
+        "greetingMessage" : "I am from gondia, Currently I'm pursuing my Bachelor's degree in Computer Science and Engineering from GHRCE Nagpur. I'm Aspiring web developer passionate about creating seamless user experiences. ",
+        "usersStateMessage" : "Thank you!"
+    },
+    
+   
+    "mr": {
+        "welcomeMessage" : "नमस्कार!",
+        "normalMessage" : "मैं वैदेही हूं|",
+        "greetingMessage" : "मैं गोंदिया से हूं, वर्तमान में मैं जीएचआरसीई नागपुर से कंप्यूटर विज्ञान और इंजीनियरिंग में स्नातक की डिग्री हासिल कर रहा हूं। मैं एक महत्वाकांक्षी वेब डेवलपर हूं जो निर्बाध उपयोगकर्ता अनुभव बनाने का शौकीन हूं।",
+        "usersStateMessage":"धन्यवाद"
+    }
+}
